@@ -2,7 +2,7 @@
 
 **AI-Powered Livestock Guardian on Stellar Blockchain**
 
-StellarHerd is an open-source + startup hybrid project that empowers smallholder livestock farmers with intelligent AI tools while rewarding sustainable practices through the Stellar network.
+StellarHerd is a startup hybrid project that empowers smallholder livestock farmers with intelligent AI tools while rewarding sustainable practices through the Stellar network.
 
 Farmers get real-time health advice, early disease detection, and herd management tools. Sustainable actions (better grazing, reduced emissions, animal welfare) are verified and rewarded with tokenized assets on Stellar.
 
